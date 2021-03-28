@@ -5,6 +5,17 @@
         <div class="col-3">
           <h6>Category</h6>
           <ais-refinement-list attribute="category.name" />
+          <h6>Price</h6>
+          <ais-numeric-menu
+            attribute="price"
+            :items="[
+              { label: 'All' },
+              { label: '<= 10$', end: 10 },
+              { label: '10$ - 100$', start: 10, end: 100 },
+              { label: '100$ - 500$', start: 100, end: 500 },
+              { label: '>= 500$', start: 500 }
+            ]"
+          />
           <h6>Manufacturer</h6>
           <ais-refinement-list attribute="manufacturer" />
           <h6>Model</h6>
@@ -17,6 +28,7 @@
           <br />
           <ais-hits>
             <template slot="item" slot-scope="{ item }">
+              <h6>Price : {{ item.price }}</h6>
               <h3><ais-highlight :hit="item" attribute="name" /></h3>
 
               <img
@@ -26,6 +38,7 @@
                 class="rounded float-left"
                 alt="..."
               />
+
               <!-- <img src="..." class="rounded float-right" alt="..."> -->
             </template>
           </ais-hits>
