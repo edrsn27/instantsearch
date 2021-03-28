@@ -1,7 +1,9 @@
 # Algolia Vue Instant Search
 
 # Description
-  Let's make search and filter thru thousands of query extremely fast
+
+
+Let's make search and filter thru thousands of query extremely fast
   
 Styled using Bootstrap
 Seach Engine using Algoia
