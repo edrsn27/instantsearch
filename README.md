@@ -1,6 +1,6 @@
 # Algolia Vue Instant Search
 
-# Description
+## Description
 
 
 Let's make search and filter thru thousands of query extremely fast
@@ -9,10 +9,17 @@ Styled using Bootstrap
 Seach Engine using Algoia
 Front-End Framework Nuxtjs
 
-
+## Demo
 
 ## Build Setup
 
+https://www.loom.com/share/14204cfb01294fb4a89f929f5780c9d1
+
+<a href="https://www.loom.com/share/14204cfb01294fb4a89f929f5780c9d1">
+    <p>instantsearch - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/14204cfb01294fb4a89f929f5780c9d1-with-play.gif">
+  </a>
+  
 ```bash
 # install dependencies
 $ npm install
