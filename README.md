@@ -3,10 +3,11 @@
 # Description
   Let's make search and filter thru thousands of query extremely fast
   
-      <p>Styled using <a href="https://getbootstrap.com/">Bootstrap</a></p>
-      <p>Seach Engine using <a href=" https://www.algolia.com/">Algoia</a></p>
+Styled using Bootstrap
+Seach Engine using Algoia
+Front-End Framework Nuxtjs
 
-      <p>by <a href="https://github.com/edrsn27">@edrsn27</a></p>
+
 
 ## Build Setup
 
