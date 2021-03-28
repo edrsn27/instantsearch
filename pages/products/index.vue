@@ -56,11 +56,6 @@ export default {
           rel: "stylesheet",
           href:
             "https://unpkg.com/instantsearch.css@7.1.0/themes/algolia-min.css"
-        },
-        {
-          rel: "stylesheet",
-          href:
-            "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         }
       ]
     };
