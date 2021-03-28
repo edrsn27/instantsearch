@@ -15,11 +15,7 @@ Front-End Framework Nuxtjs
 
 https://www.loom.com/share/14204cfb01294fb4a89f929f5780c9d1
 
-<a href="https://www.loom.com/share/14204cfb01294fb4a89f929f5780c9d1">
-    <p>instantsearch - Watch Video</p>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/14204cfb01294fb4a89f929f5780c9d1-with-play.gif">
-  </a>
-  
+
 ```bash
 # install dependencies
 $ npm install
