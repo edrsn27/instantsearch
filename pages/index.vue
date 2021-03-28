@@ -4,7 +4,10 @@
       <h1 class="title">
         Algolia Vue Instant Search
       </h1>
-      <p class="subtitle">let's make your app search and filter fast</p>
+      <p class="subtitle">
+        Let's make search and filter thru thousands of query extremely fast
+      </p>
+
       <nuxt-link to="/products">see example</nuxt-link>
       <p>Styled using <a href="https://getbootstrap.com/">Bootstrap</a></p>
       <p>Seach Engine using <a href=" https://www.algolia.com/">Algoia</a></p>
