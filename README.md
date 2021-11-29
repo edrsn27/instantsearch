@@ -13,7 +13,7 @@ Front-End Framework Nuxtjs
 
 ## Build Setup
 
-https://www.loom.com/share/90e5fbae7c9644e28c963e305521be51
+https://www.youtube.com/watch?v=obkT5OUgdcs
 
 ```bash
 # install dependencies
